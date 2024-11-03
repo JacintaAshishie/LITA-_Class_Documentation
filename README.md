@@ -52,6 +52,6 @@ In the initial stage of the data cleaning and preparations we used the following
     ```SQL
     SELECT *FROM[dbo].[CAPSTONE SALESDATA]
     WHERE CONDITION = TRUE
+```
 
-
-
+### Data Visualization
