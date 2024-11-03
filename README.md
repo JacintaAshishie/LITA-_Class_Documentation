@@ -1,2 +1,2 @@
 # LITA-_Class_Documentation
-This is where I documented my first project while learning Data Analysis with the Incubator Hub.
+### Project Title: Data Ananlysis; Data Clearning for Valuable Insights
