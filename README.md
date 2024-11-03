@@ -1,4 +1,4 @@
-# LITA-_Class_Documentation
+# LITA-_Capstone_Project
 ### Project Title: Data Ananlysis; Data Clearning for Valuable Insights
 
 ### Project Overview
@@ -34,4 +34,9 @@ The Primary data source of data used here is Text cleaning data .xlsx
   3. Data validation
   4. Used pivot tables to create reports
 
-  ### Exploratory Data Analysis 
+  ### Exploratory Data Analysis
+  LAP involves the exploring of the data to answer some questions about the data such as;
+  - what is the overall sales trend?
+  - what is the total sales per product?
+  - what is the total sales by region?
+  - what are the top selling products?
