@@ -9,7 +9,7 @@ The primary goal is to provide actionable recommendations based on data-driving 
 The Primary data source of data used here is Text cleaning data .xlsx
 
 ### Tools Used
-- Microsoft Excel[Download Here](https://www.microsoft.com)
+- Microsoft Excel [Download Here](https://www.microsoft.com)
   1. For data cleaning
   2. Analysis
   3. Visualization
