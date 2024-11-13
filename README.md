@@ -1,5 +1,5 @@
-# LITA-_Capstone_Project
-### Project Title: Data Ananlysis; Data Clearning for Valuable Insights
+# LITA-_Class_Documentation
+### Project Title: Data Ananlysis; Excel Function 2: Text Cleaning
 
 ### Project Overview
 
