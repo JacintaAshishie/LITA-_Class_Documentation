@@ -3,12 +3,11 @@
 
 ### Project Overview
 
-This project focuses on data cleaning, analysis, and visualization to extract valuable insights from various data sources. 
-
+This project focuses on text cleaning using Excel  functions to manipulate data, perform complex calculation, and draw insights from large datasets with ease.
 
 ### Data Sources
 
-The Primary data source of data used here is Text cleaning data .xlsx
+The Primary data source of data used here is Text cleaning data .xlsx. provided by our instructor Mr. Muhsim at the IncubatorHub, available for download on CANVAS (LMS).
 
 ### Tools Used
 - Microsoft Excel [Download Here](https://www.microsoft.com)
