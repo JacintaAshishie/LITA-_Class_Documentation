@@ -49,7 +49,7 @@ In the initial stage of the data cleaning and preparations we used the following
 
     This is where we include some basic lines of codes or queries or even some of the DAX expressions used during the analysis;
     ```SQL
-    SELECT *FROM[dbo].[CAPSTONE SALESDATA]
+    SELECT *FROM[dbo].[employee_table]
     WHERE CONDITION = TRUE
 ```
 
